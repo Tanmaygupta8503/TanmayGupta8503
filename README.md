@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Tanmaygupta8503/TanmayGupta8503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
