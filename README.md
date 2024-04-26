@@ -1,4 +1,4 @@
-
+![About Me](https://github.com/Tanmaygupta8503/TanmayGupta8503/blob/main/linkedinBg.jpeg)
 
 <!--
 **Tanmaygupta8503/TanmayGupta8503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 
 📧 Tanmaygupta8503@gmail.com | 📍 Kanpur, Uttar Pradesh
 [Linkedin](https://www.linkedin.com/in/tanmaygupta8503/) | [GitHub](https://github.com/Tanmaygupta8503) | [LeetCode](https://leetcode.com/adityawsome_8503/)
+
+## About Me
+I'm a passionate and motivated Computer Science student with a keen interest in backend development and software engineering. Currently pursuing a Bachelor of Technology in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University, Kanpur. I enjoy tackling challenging problems and constantly strive to expand my knowledge and skills in the field of technology.
+
+With a solid foundation in programming languages like Java, C/C++, and Python, along with experience in frontend and backend web development using frameworks like Node.js and React.js, I'm equipped to tackle a wide range of software development projects. I have a knack for building user-friendly interfaces and optimizing code for performance and scalability.
+
+In addition to my technical skills, I value effective communication and collaboration in a team environment. I'm always eager to learn from others and contribute my ideas to create innovative solutions. My goal is to leverage my skills and experiences to make meaningful contributions to the world of technology and software development.
 
 ## Education
 **Dr. A.P.J. Abdul Kalam Technical University**  
