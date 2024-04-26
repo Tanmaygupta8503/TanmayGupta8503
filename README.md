@@ -13,8 +13,63 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🌱 I’m currently learning Java Backend Development ...
 - 📫 How to reach me:
 - Mailto: TanmayGupta8503@gmail.com...
 - Linkedin: https://www.linkedin.com/in/tanmaygupta8503/
+-->
+
+
+
+### Hi there 👋 I am Tanmay Gupta
+
+📧 Tanmaygupta8503@gmail.com | 📍 Kanpur, Uttar Pradesh
+[Linkedin](https://www.linkedin.com/in/tanmaygupta8503/) | [GitHub](https://github.com/Tanmaygupta8503) | [LeetCode](https://leetcode.com/adityawsome_8503/)
+
+## Education
+**Dr. A.P.J. Abdul Kalam Technical University**  
+Kanpur, Uttar Pradesh  
+Bachelor of Technology (Computer Science And Engineering)  
+2021 - 2025 
+
+**St. Thomas School**  
+Kanpur, Uttar Pradesh  
+Intermediate - ICSE Science  
+2020 - 2021
+
+## Skills
+- **Programming Languages:** Java, C/C++, Python, SQL, HTML, CSS, JavaScript
+- **Libraries/Frameworks:** Node.js, React.js, Redux.js
+- **Tools/Platforms:** Visual Studio Code, Git, GitHub
+- **Databases:** MySQL, Oracle, MongoDB
+- **Operating System:** Kali Linux, Windows
+
+## Projects
+- 🔭 I’m currently working on
+  ### Court Room | [Link](#)
+  - Developing an e-portal for facilitating Case-Scheduling & Hearing of various cases.
+  - Introduced blockchain and smart contracts to securely store legal documents.
+  - Tech Stack: React, Firebase, Node, Ethereum, Swarm, WebRTC, Git, GitHub.
+  - Role: Full Stack Developer
+
+### Opinion Mining | [Link](#)
+- Extracting subjective information and sentiments from textual data.
+- Implemented interactive visualization tools.
+- Tech Stack: HTML, CSS, JavaScript, Python, Machine Learning/Algorithms.
+
+### Break-Out-Ball Game | [Link](#)
+- Intuitive user input and state-of-the-art collision detection.
+- Addictive scoring system and engaging graphics/sound effects.
+- Tech Stack: Java (Swing, AWT).
+
+## Certifications
+- [Introduction to JAVA (09/2022 - 10/2022) - Coding Ninjas](https://certificate.codingninjas.com/view/9005b8736114e0b8)
+- [Data Structures And Algorithms (10/2022 - 02/2022) - Coding Ninjas](https://certificate.codingninjas.com/view/3209f958658becf1)
+- [Front End | Full Stack Web Development (02/2023 - 04/2023) - Coding Ninjas](https://certificate.codingninjas.com/view/11e187fc16c749d3)
+- [Back End | Full Stack Web Development in Node.js (04/2023 - 07/2023) - Coding Ninjas](https://certificate.codingninjas.com/view/01c88cb6b928d0be)
+- [Advance Front-End Web Development with React - Full StacK (07/2023 - 10/2023) - Coding Ninjas](https://certificate.codingninjas.com/view/66e1d92278657804)
+
+## Achievements
+- [Won Bug Detection at Ignitia - College Fest among 200+ participants (02/2023)](https://drive.google.com/file/d/1bpHIhTGAy_edaJD1Q6acmTB0I_QtdSyR/view).
+- 1000+ problems solved on Leetcode and 500+ days of daily coding consistency. [Profile](https://leetcode.com/adityawsome_8503/)
+- 365+ POTD streak in GeeksForGeeks, solving 350+ problems. [Profile](https://auth.geeksforgeeks.org/user/adityagupta8503/practice/)
