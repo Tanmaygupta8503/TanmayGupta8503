@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 📧 Tanmaygupta8503@gmail.com | 📍 Kanpur, Uttar Pradesh
 [Linkedin](https://www.linkedin.com/in/tanmaygupta8503/) | [GitHub](https://github.com/Tanmaygupta8503) | [LeetCode](https://leetcode.com/adityawsome_8503/)
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
 ## About Me
 I'm a passionate and motivated Computer Science student with a keen interest in backend development and software engineering. Currently pursuing a Bachelor of Technology in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University, Kanpur. I enjoy tackling challenging problems and constantly strive to expand my knowledge and skills in the field of technology.
 
