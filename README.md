@@ -2,22 +2,24 @@
 
 ### Hi there 👋 I am Tanmay Gupta
 
-📧 Tanmaygupta8503@gmail.com | 📍 Kanpur, Uttar Pradesh  
-[![Linkedin](https://img.shields.io/badge/-Tanmay%20Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmaygupta8503/)](https://www.linkedin.com/in/tanmaygupta8503/) [![GitHub](https://img.shields.io/badge/-Tanmay%20Gupta-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Tanmaygupta8503)](https://github.com/Tanmaygupta8503) [![LeetCode](https://img.shields.io/badge/-Tanmay%20Gupta-orange?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/adityawsome_8503/)](https://leetcode.com/adityawsome_8503/)
+📧 Tanmaygupta8503@gmail.com | 📍 Kanpur, Uttar Pradesh &nbsp;&nbsp;&nbsp; [![Linkedin](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmaygupta8503/)](https://www.linkedin.com/in/tanmaygupta8503/) [![GitHub](https://img.shields.io/badge/--333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Tanmaygupta8503)](https://github.com/Tanmaygupta8503) [![LeetCode](https://img.shields.io/badge/--orange?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/adityawsome_8503/)](https://leetcode.com/adityawsome_8503/)
 
-<div style="display: block; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1; min-width: 200px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tanmaygupta8503&show_icons=true&theme=algolia" alt="Your GitHub stats" style="width: 70%;" />
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaygupta8503&layout=compact&theme=algolia" alt="Top Languages" style="width: 70%;" />
-  </div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">⚙️ &nbsp;GitHub Analytics</h2></summary>
+  </ul>
 </div>
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1; min-width: 200px; max-width: 400px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaygupta8503&theme=algolia" alt="GitHub Streak" style="width: 70%;" />
-  </div>
-</div>
+
+<p align="center">
+<a href="https://github.com/tanmaygupta8503">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanmaygupta8503&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanmaygupta8503&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaygupta8503&theme=algolia" alt="GitHub Streak"/>
+</p>
 
 ## About Me
 I'm a passionate and motivated Computer Science student with a keen interest in backend development and software engineering. Currently pursuing a Bachelor of Technology in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University, Kanpur. I enjoy tackling challenging problems and constantly strive to expand my knowledge and skills in the field of technology.
