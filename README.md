@@ -5,10 +5,18 @@
 📧 Tanmaygupta8503@gmail.com | 📍 Kanpur, Uttar Pradesh  
 [![Linkedin](https://img.shields.io/badge/-Tanmay%20Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmaygupta8503/)](https://www.linkedin.com/in/tanmaygupta8503/) [![GitHub](https://img.shields.io/badge/-Tanmay%20Gupta-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Tanmaygupta8503)](https://github.com/Tanmaygupta8503) [![LeetCode](https://img.shields.io/badge/-Tanmay%20Gupta-orange?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/adityawsome_8503/)](https://leetcode.com/adityawsome_8503/)
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmaygupta8503&show_icons=true&theme=algolia" alt="Your GitHub stats" style="width: 100%; max-width: 600px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaygupta8503&theme=algolia" alt="GitHub Streak" style="width: 100%; max-width: 600px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaygupta8503&layout=compact&theme=algolia" alt="Top Languages" style="width: 100%; max-width: 600px;" />
+<div style="display: block; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 1; min-width: 200px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tanmaygupta8503&show_icons=true&theme=algolia" alt="Your GitHub stats" style="width: 70%;" />
+  </div>
+  <div style="flex: 1; min-width: 200px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaygupta8503&layout=compact&theme=algolia" alt="Top Languages" style="width: 70%;" />
+  </div>
+</div>
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; min-width: 200px; max-width: 400px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaygupta8503&theme=algolia" alt="GitHub Streak" style="width: 70%;" />
+  </div>
 </div>
 
 ## About Me
