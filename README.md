@@ -1,32 +1,15 @@
-![About Me](https://github.com/Tanmaygupta8503/TanmayGupta8503/blob/main/linkedinBg.jpeg)
-
-<!--
-**Tanmaygupta8503/TanmayGupta8503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌱 I’m currently learning Java Backend Development ...
-- 📫 How to reach me:
-- Mailto: TanmayGupta8503@gmail.com...
-- Linkedin: https://www.linkedin.com/in/tanmaygupta8503/
--->
-
-
+![Header](https://github.com/Tanmaygupta8503/TanmayGupta8503/blob/main/linkedinBg.jpeg)
 
 ### Hi there 👋 I am Tanmay Gupta
 
-📧 Tanmaygupta8503@gmail.com | 📍 Kanpur, Uttar Pradesh
-[Linkedin](https://www.linkedin.com/in/tanmaygupta8503/) | [GitHub](https://github.com/Tanmaygupta8503) | [LeetCode](https://leetcode.com/adityawsome_8503/)
+📧 Tanmaygupta8503@gmail.com | 📍 Kanpur, Uttar Pradesh  
+[![Linkedin](https://img.shields.io/badge/-Tanmay%20Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmaygupta8503/)](https://www.linkedin.com/in/tanmaygupta8503/) [![GitHub](https://img.shields.io/badge/-Tanmay%20Gupta-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Tanmaygupta8503)](https://github.com/Tanmaygupta8503) [![LeetCode](https://img.shields.io/badge/-Tanmay%20Gupta-orange?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/adityawsome_8503/)](https://leetcode.com/adityawsome_8503/)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmaygupta8503&show_icons=true&theme=algolia) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmaygupta8503&theme=algolia)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaygupta8503&layout=compact&theme=algolia)  
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmaygupta8503&show_icons=true&theme=algolia" alt="Your GitHub stats" style="width: 100%; max-width: 600px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaygupta8503&theme=algolia" alt="GitHub Streak" style="width: 100%; max-width: 600px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaygupta8503&layout=compact&theme=algolia" alt="Top Languages" style="width: 100%; max-width: 600px;" />
+</div>
 
 ## About Me
 I'm a passionate and motivated Computer Science student with a keen interest in backend development and software engineering. Currently pursuing a Bachelor of Technology in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University, Kanpur. I enjoy tackling challenging problems and constantly strive to expand my knowledge and skills in the field of technology.
@@ -47,14 +30,14 @@ Intermediate - ICSE Science
 2020 - 2021
 
 ## Skills
-- **Programming Languages:** Java, C/C++, Python, SQL, HTML, CSS, JavaScript
-- **Libraries/Frameworks:** Node.js, React.js, Redux.js
-- **Tools/Platforms:** Visual Studio Code, Git, GitHub
-- **Databases:** MySQL, Oracle, MongoDB
-- **Operating System:** Kali Linux, Windows
+- **Programming Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Libraries/Frameworks:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+- **Tools/Platforms:** ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- **Operating Systems:** ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ## Projects
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on:
   ### Court Room | [Link](#)
   - Developing an e-portal for facilitating Case-Scheduling & Hearing of various cases.
   - Introduced blockchain and smart contracts to securely store legal documents.
